@@ -1,0 +1,33 @@
+.container h2 {
+    border: 2px solid black;
+    outline: #4CAF50 solid 5px;
+    margin: auto;  
+    padding: 10px;
+    text-align: center;
+    color:blue;
+}
+ol {
+    background: #ff9999;
+    padding: 10px;
+}
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+ol li {
+    background: #ffe5e5;
+    padding: 3px;
+    margin-left: 25px;
+} 
+ul li {
+    background: #cce5ff;
+    margin: 3px;
+}
+.card img{
+     height:500px;
+     width: 100px;
+}
+.container p{
+    text-align: justify;
+    color:blue;
+}
