@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Reactlcommerceebsite/static/css/main.68d714bf.chunk.css",
+    "main.js": "/Reactlcommerceebsite/static/js/main.d4e7b512.chunk.js",
+    "main.js.map": "/Reactlcommerceebsite/static/js/main.d4e7b512.chunk.js.map",
+    "runtime-main.js": "/Reactlcommerceebsite/static/js/runtime-main.a3a02aa8.js",
+    "runtime-main.js.map": "/Reactlcommerceebsite/static/js/runtime-main.a3a02aa8.js.map",
+    "static/js/2.2bd2dac5.chunk.js": "/Reactlcommerceebsite/static/js/2.2bd2dac5.chunk.js",
+    "static/js/2.2bd2dac5.chunk.js.map": "/Reactlcommerceebsite/static/js/2.2bd2dac5.chunk.js.map",
+    "index.html": "/Reactlcommerceebsite/index.html",
+    "static/css/main.68d714bf.chunk.css.map": "/Reactlcommerceebsite/static/css/main.68d714bf.chunk.css.map",
+    "static/js/2.2bd2dac5.chunk.js.LICENSE.txt": "/Reactlcommerceebsite/static/js/2.2bd2dac5.chunk.js.LICENSE.txt",
+    "static/media/20200107_085327.73d14d46.jpg": "/Reactlcommerceebsite/static/media/20200107_085327.73d14d46.jpg",
+    "static/media/20200111_130903.e1a8100e.jpg": "/Reactlcommerceebsite/static/media/20200111_130903.e1a8100e.jpg",
+    "static/media/20200125_102230.59756464.jpg": "/Reactlcommerceebsite/static/media/20200125_102230.59756464.jpg",
+    "static/media/B.com_Fifth_Sixth_sem.2e805538.pdf": "/Reactlcommerceebsite/static/media/B.com_Fifth_Sixth_sem.2e805538.pdf",
+    "static/media/B.com_First_Second_sem.90334f3e.pdf": "/Reactlcommerceebsite/static/media/B.com_First_Second_sem.90334f3e.pdf",
+    "static/media/B.com_Third_Fourth_sem.a973b020.pdf": "/Reactlcommerceebsite/static/media/B.com_Third_Fourth_sem.a973b020.pdf",
+    "static/media/DrAnilMarotraoRautProfil (1).9cf994ab.pdf": "/Reactlcommerceebsite/static/media/DrAnilMarotraoRautProfil (1).9cf994ab.pdf",
+    "static/media/M.com_First_to_Fourth_sem.3fece79e.pdf": "/Reactlcommerceebsite/static/media/M.com_First_to_Fourth_sem.3fece79e.pdf",
+    "static/media/M.com_Fourth_Sem.4ac1f9c4.pdf": "/Reactlcommerceebsite/static/media/M.com_Fourth_Sem.4ac1f9c4.pdf",
+    "static/media/Photo Gallery 2018-19.b1f1515c.pdf": "/Reactlcommerceebsite/static/media/Photo Gallery 2018-19.b1f1515c.pdf",
+    "static/media/SMS.912fc8cd.pdf": "/Reactlcommerceebsite/static/media/SMS.912fc8cd.pdf",
+    "static/media/Updated Profile of Tidke Sir (1).d881e63c.pdf": "/Reactlcommerceebsite/static/media/Updated Profile of Tidke Sir (1).d881e63c.pdf",
+    "static/media/gmk pro (1).264095f1.pdf": "/Reactlcommerceebsite/static/media/gmk pro (1).264095f1.pdf",
+    "static/media/savita nichit.34b459cc.pdf": "/Reactlcommerceebsite/static/media/savita nichit.34b459cc.pdf",
+    "static/media/ssesa.bacbfe0b.jpg": "/Reactlcommerceebsite/static/media/ssesa.bacbfe0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3a02aa8.js",
+    "static/js/2.2bd2dac5.chunk.js",
+    "static/css/main.68d714bf.chunk.css",
+    "static/js/main.d4e7b512.chunk.js"
+  ]
+}
